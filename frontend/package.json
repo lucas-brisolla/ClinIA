@@ -1,0 +1,6 @@
+{
+  "name": "clinia-frontend",
+  "scripts": {
+    "dev": "vite"
+  }
+}
